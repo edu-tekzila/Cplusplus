@@ -1,0 +1,102 @@
+﻿Q1)    X is produced in competitive market 
+Implication: Individual seller is not in a position to change market price of good X.
+
+a)	The supply curve will shift leftward, contraction in supply.
+b)	Same effect as case ‘a’.
+c)	Supply Curve will shift rightwards, expansion in supply
+
+Q2)     Qxd  = 1200 – ½ Px + ¼ Py – 8Pz + 1/10 M
+a)Y is a substitute good as according  to the equation if Px increase Qxd will           also increase. 
+Z is a complementary good as increasing Pz will decrease Qxd.
+b) X is a normal good, because if  we increase M(Income) in equation Qxd will also increase
+
+c)px = 4910 py= 5900 pz=90 M=55000
+                  
+putting in equation
+                   
+qxd=5000
+
+
+
+Q3)
+       Qd=50-p        Qs=1/2P-10
+                         a)
+at equlib              
+Qd=Qs
+
+                              so 
+Pc=40 and Qe=10
+
+
+
+                                      Qs at 42   = 1/2×42-10  = 11   
+                                   
+Qd at 42 = 50-42 = 8
+                                
+surplus = 3
+
+
+                                   
+Qs at 30= 1/2×30-10  = 5
+                                   
+Qd at 30 = 50-30= 20
+
+                                  surplus = 15
+
+Full Economic Price:
+It refers to the price which consumers must have paid if supplied such low qty (Qs) without price ceiling [see graph]
+
+For Qs=5
+Pd = 50-5=45 
+
+Sol4:      Qd = 7 – ½ Px			Qs = ¼ Px- ½ 
+a)	At equilibrium,    Qs=Qd
+	 7 – ½ Px = ¼ Px – ½      =>       Pe = 10		Qe = 2
+
+b)	If tax is imposed on supplier supply will reduce i.e upward shift by 6 unit.
+Now  Px  will shift upward by 6 units.
+Qs = ¼ Px – ½ 
+4Qs = Px – 2
+Px = 4Qs + 2
+Px’ = 4Qs + 2 + 6
+	  Now, Qs = ¼ Px – 2	and	Qd = 7 – ½ Px	 => 	 Pe’ = 12     Qe’ = 1
+	
+c)	Tax revenue = (Tax Price) * (Qty Sold)
+= 6 * 1
+= 6 
+
+q5)	 Ps = 0.02
+	Pd = 3 - 0.01Q
+	a) At Equilibrium Ps=Pd (also Qs=Qd)
+		0.02Q=3-0.01Q
+		Qe=100
+		Pe=2
+	At price of 2.2 
+	Qd= 3-2.2/0.01 = 80
+	Qs = 2.2/0.02
+	surplaus = Qs -Qd = 30units
+	qty Demanded (Qd) = Domestic Consumption =80units
+	cost of gov buying the surplus = 30 x 2.2 =66
+
+Suppose subsidy of En was given (this will affect the supply curve only)
+To find equation of SS’
+Ps = 0.02Q – x
+Pd = 3 – 0.01Q
+
+At equilibrium
+
+0.02Q – x = 3 – 0.01Q
+
+Qe = (3+x)/0.03
+Pe = 0.02((3+x)/0.03) – x
+     = (2/3 (3+x)) -x
+     = 2 +2x/3 -x
+     = 2 – x/3
+
+Earning For Farmer =  Subsidy + Pe
+2.2 = x + 2 – x/3
+x = 0.3 =30%
+Qe = 110 units
+
+Cost for gov = Price x Quantity = (0.3) (110) = 33
+
